@@ -9,7 +9,7 @@ focused on delivering complex, scalable, cost-effective solutions.
 
 - 🔭 I’m currently working on transforming software development teams at Philips to improve the average levels of Software craftmenship across the organization, so that these products which are built at philips can compete better in the Digital Age.
 - 🌱 I’m currently learning and practicing Functional Programming 
-- 💬 Ask me about clean code, XP, Scalability, DevOpsm, Programming in General
+- 💬 Ask me about clean code, XP, Scalability, DevOps, CI/CD, Risk Management and Programming in General
 - 📫 How to reach me: That should not be too hard
 - ⚡ Fun fact: I love cooking as much as I love programming 
 
